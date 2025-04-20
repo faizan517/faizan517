@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0AFFEF&width=435&lines=React+%7C+React+Native+%7C+Next.js+%7C+Tailwind+CSS;Clean+Code+%7C+Pixel-Perfect+UI;Performance+Focused+%7C+Scalable+Solutions" alt="Typing SVG" />
+                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0AFFEF&width=435&lines=React+%7C+React+Native+%7C+Next.js+%7C+Tailwind+CSS;Clean+Code+%7C+Pixel-Perfect+UI;Performance+Focused+%7C+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
