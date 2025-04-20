@@ -25,16 +25,6 @@
 
 ---
 
-### 📂 My Top Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Portfolio Website](https://github.com/faizan517/portfolio) | My personal developer portfolio | React, Tailwind, Framer Motion |
-| [Auth App](https://github.com/faizan517/auth-app) | Login/Signup system with JWT | React, Node.js, Express, MongoDB |
-| [React Native UI Kit](https://github.com/faizan517/react-native-ui) | Custom UI components | React Native, Styled Components |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
