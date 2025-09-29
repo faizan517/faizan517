@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React & React Native | UI/UX Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FEEF&width=450&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+Expert;Focused+on+Clean+UI+%2B+DX;Let%27s+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FEEF&width=450&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+Expert;Focused+on+Clean+UI+%2B+UX;Let%27s+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
