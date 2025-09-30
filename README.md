@@ -16,7 +16,6 @@
 - 📱 Exploring mobile apps with React Native  
 - 🧠 Always learning & experimenting with frontend tooling  
 - 🧩 Strong eye for **UI/UX and component architecture**
-- 🌐 **Check out my portfolio:** [faizi.dev](https://faizi.dev)  
 
 ---
 
